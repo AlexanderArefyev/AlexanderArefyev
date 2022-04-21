@@ -1,6 +1,6 @@
 - 👋 Hello, I'm @AlexanderArefyev
 - 👀 I'm interested in programming.
-- 🌱 I'm studying now.
+- 🍃 I'm studying now.
 - 📫 You can contact me at aleksandrarefev99@gmail.com
 
 <!---
