@@ -1,4 +1,4 @@
-- 👋 Hello, I'm @AlexanderArefyev
+- 👋 Hello, I'm Alexander Arefyev
 - 👀 I'm interested in programming.
 - 🍃 I'm studying now.
 - 📫 You can contact me at aleksandrarefev99@gmail.com
